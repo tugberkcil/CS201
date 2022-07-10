@@ -24,4 +24,6 @@
 
 ## 🗣️ About
 
+Homework and projects that I did in Ozyegin University CS201 data structures and algorithms course using the C++ programming language.
 
+For detailed information, refer to the [**subject of this project**](https://github.com/appinha/42cursus/tree/master/_PDFs).
